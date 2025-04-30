@@ -3,7 +3,7 @@
 
 ## Overview
 
-VISA4D (Voice-Integrated Scheduling Assistant for 4D BIM) is an innovative tool that integrates voice command capabilities with 4D Building Information Modeling (BIM) to enhance construction planning and scheduling. By leveraging natural language processing and BIM technologies, VISA4D enables construction professionals to interact with complex 4D models through intuitive voice commands, improving workflow efficiency and accessibility.
+VISA4D (Voice-Integrated Scheduling Assistant for 4D BIM) is an innovative tool that integrates voice command capabilities with 4D Building Information Modeling (BIM) to enhance construction planning and scheduling. By leveraging natural language processing and BIM technologies, VISA4D enables construction professionals to interact with complex 4D models through voice commands, improving workflow efficiency and accessibility.
 
 ##  Key Features
 
