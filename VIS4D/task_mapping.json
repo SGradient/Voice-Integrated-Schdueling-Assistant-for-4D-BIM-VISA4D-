@@ -1,0 +1,10 @@
+{
+    "flooring": "Flooring Installation",
+    "roofing": "Roofing",
+    "concrete": "Concrete Pouring",
+    "painting": "Painting and Decorating",
+    "plumbing": "Plumbing Installation",
+    "electrical": "Electrical Wiring",
+    "hvac": "HVAC Installation",
+    "drywall": "Drywall Installation"
+}
