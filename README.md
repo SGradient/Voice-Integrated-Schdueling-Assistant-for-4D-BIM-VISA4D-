@@ -13,8 +13,3 @@ VISA4D (Voice-Integrated Scheduling Assistant for 4D BIM) is an innovative tool 
 
 
 
-
-
-
-### Basic Voice Commands
-Once VISA4D is running, you can use the following voice commands to interact with your 4D BIM model
